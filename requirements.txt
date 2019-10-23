@@ -1,1 +1,3 @@
-pytest
+num2words==0.5.3
+py==1.4.30
+pytest==2.8.2
