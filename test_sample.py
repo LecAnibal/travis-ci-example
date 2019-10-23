@@ -15,7 +15,7 @@ def test_double_0():
     assert double(0) == 0
 
 def test_double_2():
-    assert double(2) == 8
+    assert double(2) == 4
 
 def test_double_negatives():
     assert double(-2) == -4
